@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/patrickbaggerman/AgileProject/_apis/build/status%2Fpbaglabs.GitApp?branchName=main)](https://dev.azure.com/patrickbaggerman/AgileProject/_build/latest?definitionId=3&branchName=main)
